@@ -2,6 +2,12 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
+        //if BASE
+        boolean piove = false;
+
+        if(piove){
+            System.out.println("prendi l'ombrello");
+        }
 
         //if/else BASE
         int numero = 10;
