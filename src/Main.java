@@ -44,5 +44,19 @@ public class Main {
         } else {
             System.out.println("Sei troppo giovane per guidare.");
         }
+
+
+        //ESERCIZI:
+        // modificare il primo esempio (if else base) in maniera da gestire anche se lo zero sia == a 0, infatti nell'esempio nel manin
+        //il caso in cui il numero sia == a 0 , è accorpato al casop (condizione) in cui il numero sia negativo (numero<0)
+
+
+        //secondo esercizio
+        //prova a togliere gli else e a creare tutti blocchi if separati dell'if elze avanzato, e nota la sequenzialita e differenze nell'esecuzione
+        // (usa il debug)
+
+
+        //terzo esercizio
+        // aggiungiamo un boleano chiamato "isInNapoli"== true, e aggiungiamo 'i caso' che se anche non ha la patente e i 18 anni, puo guidare
     }
 }
